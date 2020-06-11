@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1577134706 source:c:\users\arda İÇen\documents\ardatextbrowser\main.cpp
+	<iostream>
+	"sll.h"
+	"Queue.h"
+	"Stack.h"
+	<string>
+	<fstream>
+
+1577134234 c:\users\arda İÇen\documents\ardatextbrowser\sll.h
+	<iostream>
+
+1577134144 c:\users\arda İÇen\documents\ardatextbrowser\queue.h
+	"sll.h"
+
+1577134663 c:\users\arda İÇen\documents\ardatextbrowser\stack.h
+	"sll.h"
+
